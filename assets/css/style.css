@@ -17,6 +17,7 @@ body{
 .imagine{
     height: 200px;
     width: 200px;
+    clip-path: polygon(0 0, 92% 0, 82% 100%, 0% 100%);
 }
 
 .nameContainer{
